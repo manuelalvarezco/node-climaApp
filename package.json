@@ -1,0 +1,23 @@
+{
+  "name": "05-climaapp",
+  "version": "1.0.0",
+  "description": "Aplicación del clima realizada en node.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/manuelalvarezco/node-climaApp.git"
+  },
+  "author": "Manuel Alvarez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/manuelalvarezco/node-climaApp/issues"
+  },
+  "homepage": "https://github.com/manuelalvarezco/node-climaApp#readme",
+  "dependencies": {
+    "axios": "^0.18.0",
+    "yargs": "^13.2.2"
+  }
+}
